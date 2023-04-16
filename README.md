@@ -17,6 +17,6 @@
 <pre>****************************************************************************************************************</pre>
 
 
-Project Link :https://vijay-kumar-mern-dev.github.io/Html-Timetable-Project/ <br>
+Project Link :https://vijay-kumar-mern-dev.github.io/Html-Time-Table-Project/<br>
 
 <img src="https://acegif.com/wp-content/uploads/thanks-for-watching.gif" alt="Happy Coding"  >
